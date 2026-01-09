@@ -1,4 +1,4 @@
-# secret_santa_game
+# Secret Santa Game
 
 ## Overview
 
