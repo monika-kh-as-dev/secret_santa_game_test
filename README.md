@@ -6,7 +6,7 @@ This project automates the Secret Santa assignment process for employees while e
 It supports CSV and Excel (.xlsx) inputs, avoids self-assignment, prevents repeating last year’s assignments, and ensures a one-to-one mapping between employees and secret children.
 The solution is intentionally kept simple, modular, testable, and extensible, following OOP best practices with proper error handling. 
 
-## Features & Rules Enforced
+## Features & Rules
 
 - No employee can be assigned to themselves
 - No employee receives the same secret child as the previous year
